@@ -49,3 +49,8 @@ React Hooks
 Normal JS utility Functions
 useState() - superpowerful state variables
 useEffect() -
+
+Routing 
+
+client side
+server side
